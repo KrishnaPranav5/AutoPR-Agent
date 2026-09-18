@@ -1,0 +1,3 @@
+{
+  "tests/unit/test_sandbox_security.py::test_command_disallowed_shell_injection_metacharacters": true
+}
